@@ -95,9 +95,15 @@ warning()
 
   #1)
 
+fook <- function(x){
+  x <- x + 1
+  for (i in 10:1) {
+    
+  }
+  return(x)
+}
 
-
-
+fook(2:10)
   #2)
 
 
