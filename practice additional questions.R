@@ -45,9 +45,6 @@ wordwords
 surnames <- c("Harris", "Jones", "Lewis", "Lechter", "Bright", 
               "Harvey", "Weissman", "Doyle", "Sakurai", "Doe")
 
-for (i in ) {
-  
-}
 
 #3
 
